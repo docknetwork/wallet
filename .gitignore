@@ -8,3 +8,5 @@ package-lock.json
 .env
 .vscode
 mywallet
+coverage
+
